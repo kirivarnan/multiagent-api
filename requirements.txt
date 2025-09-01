@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]==0.24.0
+pydantic
+python-dotenv
+langchain-core
+langchain-groq
+langgraph
+python-multipart
